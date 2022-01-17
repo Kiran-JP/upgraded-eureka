@@ -3,7 +3,7 @@ Thought was to use ML to do wine quality prediction based on wine's chemical pro
 
 Following ML algorithms were primarily evaluated: 
 - Linear regression 
-- - Logistic regression  
+- Logistic regression  
 
 
 We also took a sneak peek into two other algorithms like SVM &amp; KNN for comparison.
